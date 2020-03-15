@@ -37,7 +37,8 @@ from a1 import has_error
    *Here X = {temperature, humidity, pressure, wind, sealevel}*
 
 ```python
-from a1 import get_X
+from a1 import get_temperature
+from a1 import get_pressure
 ```
 
 
